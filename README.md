@@ -4,7 +4,7 @@
 
 >> Here is what it looks like:
 
-![](https://j.gifs.com/L7E4pA.gif)
+![](L7E4pA.gif)
 Link --> https://j.gifs.com/L7E4pA.gif
 
 
