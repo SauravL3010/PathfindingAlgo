@@ -4,7 +4,7 @@
 
 >>-Here is what it looks like:
 
-![Alt Text](https://j.gifs.com/L7E4pA.gif)
+![visualization gif here](https://j.gifs.com/L7E4pA.gif)
 
 
 - Breadth First Search implementation 
