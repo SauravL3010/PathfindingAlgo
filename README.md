@@ -4,10 +4,10 @@
 
 >> Here is what it looks like:
 
-![](L7E4pA.gif)
+>> ![](L7E4pA.gif)
 Link --> https://j.gifs.com/L7E4pA.gif
 
 
 
 - Breadth First Search implementation 
-- ![](bFS.JPG)
+>> ![](bFS.JPG)
