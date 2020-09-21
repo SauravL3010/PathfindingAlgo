@@ -2,9 +2,9 @@
 
 - Visualizing A* algorithm using python's pygame module
 
->>-Here is what it looks like:
+>> Here is what it looks like:
 
-![visualization gif here](https://j.gifs.com/L7E4pA.gif)
+![](https://j.gifs.com/L7E4pA.gif)
 
 
 - Breadth First Search implementation 
